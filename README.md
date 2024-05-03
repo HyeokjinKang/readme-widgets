@@ -9,7 +9,7 @@
 
 ### Apple Music Recently Played Widget
 
-[<img src="https://readme-widgets.deno.dev/recently-played" height="150" />](https://readme-widgets.deno.dev/redirect?to=recently-played)  
+[<img src="https://coupy-readme-widg-24.deno.dev/recently-played" height="150" />](https://coupy-readme-widg-24.deno.dev/redirect?to=recently-played)  
 
 **URL** `/recently-played`  
 **Query Parameters**:
